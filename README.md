@@ -1,2 +1,2 @@
-# mygitrepo
-in practical techical world
+ -# mygitrepo
+in practical techical world (very intersting)
